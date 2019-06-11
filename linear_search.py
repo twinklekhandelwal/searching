@@ -4,5 +4,5 @@ user_input=int(raw_input("enter no."))
 while(i<len(linear_list)):
 	if(linear_list[i]==user_input):
 	    print linear_list[i]
-        print i
+            print i
 	i=i+1    
