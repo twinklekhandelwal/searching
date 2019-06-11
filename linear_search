@@ -1,4 +1,0 @@
-binary_list=[2,3,9,76,54,65,45,67]
-i=0
-while(i<len(binary_list)):
-    
